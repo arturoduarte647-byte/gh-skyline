@@ -13,5 +13,6 @@
   - Types and interfaces
   - Exported variables and constants
 - Write unit tests for core functionality
+- bank
 - Keep functions focused and manageable (generally under 50 lines)
 - Use error handling patterns consistently
